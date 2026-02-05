@@ -1,0 +1,20 @@
+{
+  "name": "gta-mod-toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit for creating and managing GTA mods.",
+  "main": "src/cli/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli/index.js",
+    "dev": "ts-node src/cli/index.ts",
+    "test": "npm run build && node dist/cli/index.js --help",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "author": "Holly Redfield",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.4.2"
+  }
+}
