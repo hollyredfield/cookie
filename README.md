@@ -1,4 +1,17 @@
-# GTA Mod Toolkit — Manual de supervivencia (versión sarcástica)
+# GTA Mod Toolkit
+
+Toolkit for creating, managing, and testing GTA mods.
+
+## Structure
+
+- `src/` - Source code for the toolkit
+- `mods/` - Example and user mods
+- `templates/` - Mod/file templates
+- `tools/` - Build and test tools
+- `tests/` - Unit and integration tests
+- `docs/` - Documentation
+- `scripts/` - Build/test scripts
+- `samples/` - Example mod packs
 
 ![](https://img.shields.io/badge/stable-1.0.0-brightgreen) ![](https://img.shields.io/badge/typescript-ES2020-blue)  
 (Logotipo provisional: no me llores ⚙️)
