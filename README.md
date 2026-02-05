@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/stable-1.0.0-brightgreen) ![](https://img.shields.io/badge/typescript-ES2020-blue)  
 (Logotipo provisional: no me llores ⚙️)
-
+![](https://programmerhumor.io/ai-memes/they-are-experts-now-w7ep)
 Introducción
 -----------
 Proyecto diseñado para crear, gestionar y testear mods para GTA.  
