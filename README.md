@@ -1,7 +1,7 @@
 # GTA Mod Toolkit — Manual de supervivencia (versión sarcástica)
 
 ![](https://img.shields.io/badge/stable-1.0.0-brightgreen) ![](https://img.shields.io/badge/typescript-ES2020-blue)  
-(Logotipo provisional: ⚙️)
+(Logotipo provisional: no me llores ⚙️)
 
 Introducción
 -----------
