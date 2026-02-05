@@ -94,4 +94,4 @@ Notas finales (sarcasmo moderado)
 - Si objetivo: aprender, abrir [src/cli/index.ts](src/cli/index.ts) y jugar.  
 - Si objetivo: publicar, leer `modinfo.json` correcto en [mods/example-mod/modinfo.json](mods/example-mod/modinfo.json).
 
-...existing code...
+
